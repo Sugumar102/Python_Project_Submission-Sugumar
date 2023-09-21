@@ -1,0 +1,101 @@
+,Types of genre,Name of movie,Year of release,Watch time,Movie rating
+0,Drama            ,The Shawshank Redemption,1994,142 min,9.3
+1,"Crime, Drama            ",The Godfather,1972,175 min,9.2
+2,"Action, Crime, Drama            ",The Dark Knight,2008,152 min,9.0
+3,"Biography, Drama, History            ",Schindler's List,1993,195 min,9.0
+4,"Crime, Drama            ",The Godfather Part II,1974,202 min,9.0
+5,"Action, Adventure, Drama            ",The Lord of the Rings: The Return of the King,2003,201 min,9.0
+6,"Crime, Drama            ",12 Angry Men,1957,96 min,9.0
+7,"Crime, Drama            ",Pulp Fiction,1994,154 min,8.9
+8,"Action, Adventure, Sci-Fi            ",Inception,2010,148 min,8.8
+9,"Action, Adventure, Drama            ",The Lord of the Rings: The Fellowship of the Ring,2001,178 min,8.8
+10,Drama            ,Fight Club,1999,139 min,8.8
+11,"Drama, Romance            ",Forrest Gump,1994,142 min,8.8
+12,"Adventure, Western            ","Il buono, il brutto, il cattivo",1966,161 min,8.8
+13,"Action, Adventure, Drama            ",The Lord of the Rings: The Two Towers,2002,179 min,8.8
+14,"Crime, Drama, Mystery            ",Jai Bhim,2021,164 min,8.8
+15,"Adventure, Comedy, Drama            ",777 Charlie,2022,136 min,8.8
+16,"Animation, Action, Adventure            ",Spider-Man: Across the Spider-Verse,2023,140 min,8.7
+17,"Adventure, Drama, Sci-Fi            ",Interstellar,2014,169 min,8.7
+18,"Biography, Crime, Drama            ",Goodfellas,1990,145 min,8.7
+19,"Action, Sci-Fi            ",The Matrix,1999,136 min,8.7
+20,Drama            ,One Flew Over the Cuckoo's Nest,1975,133 min,8.7
+21,"Action, Adventure, Fantasy            ",Star Wars: Episode V - The Empire Strikes Back,1980,124 min,8.7
+22,"Biography, Drama            ",Rocketry: The Nambi Effect,2022,157 min,8.7
+23,"Action, Drama            ",Soorarai Pottru,2020,153 min,8.7
+24,"Biography, Drama, History            ",Oppenheimer,2023,180 min,8.6
+25,"Crime, Drama, Mystery            ",Se7en,1995,127 min,8.6
+26,"Crime, Drama, Thriller            ",The Silence of the Lambs,1991,118 min,8.6
+27,"Drama, War            ",Saving Private Ryan,1998,169 min,8.6
+28,"Crime, Drama, Fantasy            ",The Green Mile,1999,189 min,8.6
+29,"Action, Adventure, Fantasy            ",Star Wars,1977,121 min,8.6
+30,"Animation, Adventure, Family            ",Sen to Chihiro no kamikakushi,2001,125 min,8.6
+31,"Action, Sci-Fi            ",Terminator 2: Judgment Day,1991,137 min,8.6
+32,"Crime, Drama            ",Cidade de Deus,2002,130 min,8.6
+33,"Comedy, Drama, Romance            ",La vita è bella,1997,116 min,8.6
+34,"Action, Drama            ",Shichinin no samurai,1954,207 min,8.6
+35,"Drama, Family, Fantasy            ",It's a Wonderful Life,1946,130 min,8.6
+36,"Action, Drama, Mystery            ",Seppuku,1962,133 min,8.6
+37,"Action, Drama, Mystery            ",Sita Ramam,2022,163 min,8.6
+38,"Horror, Sci-Fi            ",Alien,1979,117 min,8.5
+39,"Action, Adventure, Drama            ",Gladiator,2000,155 min,8.5
+40,"Adventure, Comedy, Sci-Fi            ",Back to the Future,1985,116 min,8.5
+41,"Drama, Mystery, Sci-Fi            ",The Prestige,2006,130 min,8.5
+42,"Drama, Thriller            ",Gisaengchung,2019,132 min,8.5
+43,"Crime, Drama, Thriller            ",The Departed,2006,151 min,8.5
+44,"Drama, Western            ",Django Unchained,2012,165 min,8.5
+45,"Horror, Mystery, Thriller            ",Psycho,1960,109 min,8.5
+46,"Crime, Drama            ",American History X,1998,119 min,8.5
+47,"Drama, Music            ",Whiplash,2014,106 min,8.5
+48,"Action, Crime, Drama            ",Léon,1994,110 min,8.5
+49,"Mystery, Thriller            ",Rear Window,1954,112 min,8.5
+50,"Animation, Adventure, Drama            ",The Lion King,1994,88 min,8.5
+51,"Crime, Drama, Mystery            ",The Usual Suspects,1995,106 min,8.5
+52,"Biography, Drama, Music            ",The Pianist,2002,150 min,8.5
+53,"Drama, Romance, War            ",Casablanca,1942,102 min,8.5
+54,"Biography, Comedy, Drama            ",The Intouchables,2011,112 min,8.5
+55,"Animation, Drama, War            ",Hotaru no haka,1988,89 min,8.5
+56,Western            ,Once Upon a Time in the West,1968,165 min,8.5
+57,"Drama, Romance            ",Nuovo Cinema Paradiso,1988,155 min,8.5
+58,"Comedy, Drama, Romance            ",Modern Times,1936,87 min,8.5
+59,"Comedy, Drama, Romance            ",City Lights,1931,87 min,8.5
+60,"Drama, Romance            ",96,II 2018,158 min,8.5
+61,"Action, Adventure            ",Raiders of the Lost Ark,1981,115 min,8.4
+62,"Crime, Drama, Thriller            ",Joker,I 2019,122 min,8.4
+63,"Action, Drama, Thriller            ",The Dark Knight Rises,2012,164 min,8.4
+64,"Action, Drama, Mystery            ",Oldeuboi,2003,101 min,8.4
+65,"Action, Adventure, Drama            ",Avengers: Endgame,2019,181 min,8.4
+66,"Animation, Action, Adventure            ",Spider-Man: Into the Spider-Verse,2018,117 min,8.4
+67,"Drama, Horror            ",The Shining,1980,146 min,8.4
+68,"Action, Adventure, Sci-Fi            ",Aliens,1986,137 min,8.4
+69,"Biography, Drama, Music            ",Amadeus,1984,160 min,8.4
+70,"Mystery, Thriller            ",Memento,2000,113 min,8.4
+71,"Action, Adventure, Sci-Fi            ",Avengers: Infinity War,2018,149 min,8.4
+72,"Drama, Mystery, War            ",Apocalypse Now,1979,147 min,8.4
+73,"Drama, Thriller, War            ",Idi i smotri,1985,142 min,8.4
+74,"Animation, Adventure, Drama            ",Coco,I 2017,105 min,8.4
+75,"Animation, Drama, Fantasy            ",Kimi no na wa.,2016,106 min,8.4
+76,"Comedy, War            ",Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1964,95 min,8.4
+77,"Comedy, Drama            ",3 Idiots,2009,170 min,8.4
+78,"Drama, Mystery, Thriller            ",The Lives of Others,2006,137 min,8.4
+79,"Animation, Adventure, Family            ",WALL·E,2008,98 min,8.4
+80,Drama            ,Capharnaüm,2018,126 min,8.4
+81,"Drama, Film-Noir            ",Sunset Blvd.,1950,110 min,8.4
+82,"Drama, War            ",Paths of Glory,1957,88 min,8.4
+83,"Drama, War            ",Das Boot,1981,149 min,8.4
+84,"Crime, Drama, Mystery            ",Witness for the Prosecution,1957,116 min,8.4
+85,"Comedy, Drama, War            ",The Great Dictator,1940,125 min,8.4
+86,"Crime, Drama, Mystery            ",Tengoku to jigoku,1963,143 min,8.4
+87,"Action, Adventure, Crime            ",Kaithi,2019,145 min,8.4
+88,"Biography, Crime, Drama            ",Sardar Udham,2021,164 min,8.4
+89,"Action, Drama            ",Asuran,2019,141 min,8.4
+90,"Crime, Drama, Thriller            ",Drishyam 2,2021,152 min,8.4
+91,"Adventure, Drama, War            ",Inglourious Basterds,2009,153 min,8.3
+92,"Action, Drama            ",Top Gun: Maverick,2022,130 min,8.3
+93,"Action, Crime, Drama            ",Heat,1995,170 min,8.3
+94,Drama            ,American Beauty,1999,122 min,8.3
+95,"Drama, Romance            ",Good Will Hunting,1997,126 min,8.3
+96,Drama            ,Requiem for a Dream,2000,102 min,8.3
+97,"Adventure, Sci-Fi            ",2001: A Space Odyssey,1968,149 min,8.3
+98,"Drama, Romance, Sci-Fi            ",Eternal Sunshine of the Spotless Mind,2004,108 min,8.3
+99,Drama            ,Jagten,2012,115 min,8.3
